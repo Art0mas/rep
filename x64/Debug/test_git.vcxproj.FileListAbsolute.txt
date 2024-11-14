@@ -1,1 +1,2 @@
 D:\Навчання\ДУІКТ\Проекти\C++\test_git\x64\Debug\test_git.exe
+D:\Навчання\ДУІКТ\Проекти\Git Sourcetree\test_git\x64\Debug\test_git.exe
